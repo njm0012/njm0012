@@ -20,4 +20,4 @@
 
 
 ### :fire: My GitHub Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njm0012)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-lemon-theta-58.vercel.app/api?username=njm0012)](https://github.com/anuraghazra/github-readme-stats)
